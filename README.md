@@ -23,8 +23,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ```
-Developed By: Priyan
-Reg No: 21224230211
+Developed By: Dharshini.V
+Reg No: 212223040038
 ```
 ```
 import numpy as np
